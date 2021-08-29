@@ -8,7 +8,7 @@
   <artifactId>java-stdin-stdout-2</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>java-stdin-stdout-2</name>
-  <url></url>
+  <url>https://www.hackerrank.com/challenges/java-stdin-stdout/problem</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
